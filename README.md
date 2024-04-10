@@ -33,7 +33,7 @@
   - The program starts with a light, digital program in the second half of April 2023. This is a relatively minimal time commitment and can be done alongside other responsibilities.
   - The bulk of the program is a full-time, in-person program that runs from May 7 until July 21, 2023. This program takes place in Rotterdam, The Netherlands.
 
-- 📫 How to reach me via tuana.yilmaz@freshventures.eu, or you can apply via our LinkedIn page "Fresh Ventures Studio," "Founder" position.
+- 📫 How to reach me via tuana.yilmaz@freshventures.eu and https://www.linkedin.com/in/tuana-yilmaz, or you can apply via our LinkedIn page, "Fresh Ventures Studio," "Founder" position.
 
 <!---
 TuanaYilmazFresh/TuanaYilmazFresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
