@@ -29,9 +29,12 @@
   - Earmarked capital: From core investors that are mission-aligned and ready to invest
   - Structure for impact: Steward ownership approaches that safeguard the mission of your venture
   - Long-term support: Through a growing community of practice
-- Details:
-  - The program starts with a light, digital program in the second half of April 2023. This is a relatively minimal time commitment and can be done alongside other responsibilities.
-  - The bulk of the program is a full-time, in-person program that runs from May 7 until July 21, 2023. This program takes place in Rotterdam, The Netherlands.
+- Practical Details:
+  - The first part is a two-week digital program. This is a relatively minimal time commitment and can be done alongside other responsibilities.
+  - The bulk of the program is a full-time, in-person program that runs over 13 weeks . This program takes place in Rotterdam, The Netherlands.
+- Program dates:
+  - >> Digital program: October 21st till November 1st, 2024
+  - >> In-person program: Part 1 from November 4th till December 13th, 2024 & part 2 from January 13th till February 28th, 2025
 
 - 📫 How to reach me via tuana.yilmaz@freshventures.eu and https://www.linkedin.com/in/tuana-yilmaz, or you can apply via our LinkedIn page, "Fresh Ventures Studio," "Founder" position.
 
